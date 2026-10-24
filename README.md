@@ -32,4 +32,4 @@ LinkedIn: www.linkedin.com/in/bruna-pontes-leal
 
 Gmail: bpontesleal@gmail.com
 
-Em constante aprendizado e desenvolvimento.
+Em constante aprendizado e desenvolvimento!
