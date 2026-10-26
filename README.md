@@ -1,6 +1,6 @@
 Olá! Seja bem-vindo(a) ao meu portfólio.
 
-Sou estudante de Tecnologia da Informação e Comunicação na FAETEC Petrópolis, interessada em desenvolvimento de software, APIs, automação de processos e inteligência artificial aplicada a soluções reais.
+Sou estudante de Tecnologia da Informação e Comunicação na Faeterj Petrópolis, interessada em desenvolvimento de software, APIs, automação de processos e inteligência artificial aplicada a soluções reais.
 
 Este repositório reúne meus projetos, experiências e conhecimentos na área de tecnologia, além de acompanhar minha evolução como desenvolvedora.
 
